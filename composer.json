@@ -1,5 +1,5 @@
 {
-    "name": "darkcom/yii2-cas-client",
+    "name": "dakcom/yii2-cas-client",
     "description": "CAS authentication for Yii2",
     "type": "yii2-extension",
     "keywords": ["yii", "yii2", "authentication", "CAS"],
@@ -10,15 +10,15 @@
     },
     "autoload": {
         "psr-4": {
-            "darkcom\\yii2casclient\\cas\\" : "src"
+            "dakcom\\yii2-cas-client\\cas\\" : "src"
         }
     },
     "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
-            "name": "darkcom",
-            "email": "darkcom@qq.com"
+            "name": "dakcom",
+            "email": "dakcom@qq.com"
         }
     ]
 }
