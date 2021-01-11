@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "dakcom\\yii2-cas-client\\cas\\" : "src"
+            "dakcom\\yii2casclient\\cas\\" : "src"
         }
     },
     "minimum-stability": "dev",
